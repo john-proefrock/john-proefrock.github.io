@@ -1,40 +1,29 @@
 ---
-title: ""
-image: "frank.jpg"
+title: "John Proefrock"
+image: "IMG_9831.jpeg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://linkedin.com/in/john-proefrock-37275b260/"
   - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://x.com/JCPROEF26"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/john-proefrock"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:jproef@uw.edu"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-Frank Hermosillo studies neural networks and their applications at Google 
-Brain. His research focuses on differentiable network pruning approximation and 
-decentralized gradient inversion mechanics. He frequently collaborates with 
-researchers who study machine learning, computer vision, and cognitive science.
-His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
-Times Magazine.
+John Proefrock is a Master's student in the School of Aquatic and Fishery Sciences at the University of Washington, Seattle. He is a member of the Molecular Ecology Research Laboratory (MERLab), where he researches population genetics and behavorial ecology of surf smelt (*Hypomesus pretiosus*). His research interests include conservation genetics and the use of genetic data in ecological modeling.
 
 ## Education
 
-**Massachusetts Institute of Technology** | Cambridge, MA
+**University of Miami Rosenstiel School of Marine, Atmospheric, and Earth Science** | Coral Gables, FL
 
-Ph.D. in Computer Science | September 2009 - May 2014
+B.S. in Marine Science and Biology | September 2019 - May 2023
 
-**The University of California, Berkeley** | Berkeley, CA
+**The University of Washington** | Seattle, WA
 
-B.S. in Computer Science | September 2005 - May 2009
-
-## Experience
-
-**Google Brain** | Principal Investigator | January 2018 - Present
-
-**Netflix** | Research Scientist | June 2014 - December 2017
+M.S. in Fishery Science | September 2023 - Present
